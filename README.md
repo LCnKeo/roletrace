@@ -26,7 +26,7 @@ RoleTrace 是面向小说、剧本、互动叙事及 AI 漫剧的
 Requires an Agent Skills-compatible client.
 
 ```bash
-npx skills add lsk980210/roletrace
+npx skills add LCnKeo/roletrace
 ```
 
 Replace YOUR_USERNAME with the repository owner's
